@@ -1,4 +1,4 @@
-Welcome! 
+# Welcome! 
 <p align="center">
-  <img src="src/GItHub.png" alt="Banner">
+  <img src="src/git.png" alt="Banner">
 </p>
