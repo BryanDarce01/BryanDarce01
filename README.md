@@ -5,7 +5,7 @@
 ## I'm passionate about applying data-driven insights to optimize organizational performance and employee well-being
 
 ## Contact me! Let´s work together 📲
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-darce/) [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor)](mailto:gbryan839@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-darce/) [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor)](mailto:bryan0darce@gmail.com)
 
 # My tools 🔨
 - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
