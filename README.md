@@ -1,4 +1,4 @@
-<img align='right' alt='Gif' widht='400' src='https://media2.giphy.com/media/3o752oeUYz6S2SHi5W/giphy.gif?cid=ecf05e47mbxt9k49v7qo6do2m0sktktj78vl3zgyfd3w7pnk&ep=v1_gifs_related&rid=giphy.gif&ct=g'>
+<img align='center' alt='Gif' src='https://media2.giphy.com/media/3o752oeUYz6S2SHi5W/giphy.gif?cid=ecf05e47mbxt9k49v7qo6do2m0sktktj78vl3zgyfd3w7pnk&ep=v1_gifs_related&rid=giphy.gif&ct=g'>
 
 # 🎯 About Me
 
